@@ -7,11 +7,11 @@ A command-line Contact Management System built with C# applying OOP and SOLID pr
 - [.NET SDK 10.0](https://dotnet.microsoft.com/download) or later
 
 ## How to Run
-
-**```bash
-cd ContactManager
+```bash
+git clone https://github.com/mokhtar239/Contact-Manager.git
+cd Contact-Manager
 dotnet run
-```**
+```
 
 ## Menu Options
 
