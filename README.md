@@ -4,7 +4,7 @@ A command-line Contact Management System built with C# applying OOP and SOLID pr
 
 ## Prerequisites
 
-- [.NET SDK 10.0](https://dotnet.microsoft.com/download) or later
+- [.NET SDK 8.0](https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.418/dotnet-sdk-8.0.418-win-x64.exe) or later
 
 ## How to Run
 ```bash
