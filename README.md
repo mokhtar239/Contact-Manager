@@ -8,10 +8,10 @@ A command-line Contact Management System built with C# applying OOP and SOLID pr
 
 ## How to Run
 
-```bash
+**```bash
 cd ContactManager
 dotnet run
-```
+```**
 
 ## Menu Options
 
